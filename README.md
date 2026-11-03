@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I’m currently working on Roblox game development
+I’m currently learning Cybertechnologies and AI
+ How to reach me: dimitardelchevedu@gmail.com
 <!--
 **MalkiqMitko/MalkiqMitko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
