@@ -1,6 +1,6 @@
-## Hi there 👋
-I’m currently working on Roblox game development
-I’m currently learning Cybertechnologies and AI
+## Hi there 👋 I’m currently working on Roblox game development also I’m currently learning Cybertechnologies and AI at New Bulgarian University!
+
+
  How to reach me: dimitardelchevedu@gmail.com
 <!--
 **MalkiqMitko/MalkiqMitko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
